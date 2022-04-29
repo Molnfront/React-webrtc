@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#myVideo {
+  background-color: #374b6b;
+}
+
+.switch-camera {
+  content: "switch";
+  cursor: pointer;
+}
